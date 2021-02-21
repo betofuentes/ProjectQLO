@@ -53,6 +53,7 @@ html {
     margin-left: 1.5rem;
 }
 .nav a {
+    font-family: 'Montserrat', sans-serif;
     color: white;
     text-decoration: none;
 }
