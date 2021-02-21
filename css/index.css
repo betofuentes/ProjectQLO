@@ -40,7 +40,6 @@ html {
 }
 
 .nav-links {
-    margin-right: 1rem;
     background-color: #6d9dc5ff;
 }
 
@@ -56,4 +55,12 @@ html {
 .nav a {
     color: white;
     text-decoration: none;
+}
+
+.main-content{
+    padding: 0 5rem;
+    font-size: 1.6rem;
+}
+.main-content-container h1{
+    font-family: 'Work Sans', sans-serif;
 }
